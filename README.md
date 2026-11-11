@@ -32,5 +32,5 @@ Python · TypeScript · Swift · ONNX / small on-device models · Pyodide & WebA
 
 #### 📫 Reach me
 
-Open an issue on any repo, or [LINKEDIN_OR_SITE_PLACEHOLDER].
+Open an issue on any repo, or visit [fikrifirat.com](https://fikrifirat.com).
 Interested in roles and collaborations around **privacy-first AI, voice AI and legal/regulated-sector AI**.
